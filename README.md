@@ -4,7 +4,7 @@ Este repositorio contiene todos los archivos relacionados con la base de datos d
 
 ## Archivos
 
-* **Pa-donde-Base-de-datos.sql:** El script principal de MySQL para crear la estructura y poner los datos.
+* **Pa_donde.sql:** El script principal de MySQL para crear la estructura y poner los datos.
 * **Pa-donde.pdf:** El Diagrama Entidad-Relación (DER) que muestra el modelo lógico y físico de la base de datos.
 
 ## Versions (Historial de Cambios)
