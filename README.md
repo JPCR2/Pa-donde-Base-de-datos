@@ -36,3 +36,6 @@ Creación de tablas principales (
 Relaciones mediante claves foráneas.
 
 Inserciones iniciales para pruebas. 
+
+## En esta nueva sesion se modifico junto con la base de datos para que nos puedan dar el CRUD , lo cual nos falto el de eliminar y actualizar
+y ahora ya nos deja modificar y eliminar en la base de datos.
